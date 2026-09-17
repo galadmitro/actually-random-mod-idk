@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RR",
+    " S",
+    " S"
+  ],
+  "key": {
+    "R": {
+      "item": "rubymod:ruby"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "rubymod:ruby_hoe"
+  }
+}
